@@ -1,0 +1,74 @@
+body {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.headerTitle{
+  color: #FD644d;
+  font-weight: bolder;
+  font-style: italic;
+  position: relative;
+  left: 35vw;
+}
+
+.navbar-brand {
+  font-size: 12px;
+}
+.searchArea {
+  background: white;
+}
+.checkoutButton {
+  float: right;
+  background-color: #E26D5F;
+  color: white;
+  margin-top: 0;
+}
+
+.checkoutButton:hover{
+  background-color: #5DC87E;
+}
+
+.addToBagButton:hover{
+  background-color: #E26D5F;
+}
+
+table {
+  margin-top: 40px;
+  border: 1px solid gray;
+  width: 100%;
+}
+td {
+  border: 1px solid gray;
+  padding: 10px;
+  vertical-align: top;
+}
+
+th {
+  padding: 10px;
+}
+
+.sortByPrice {
+  float: right;
+}
+.cartShoppingBag {
+  background: white;
+}
+.orderTotal {
+  float: right;
+  display: inline-block;
+}
+.myShoppingBag {
+  display: inline-block;
+}
+
+.editButton {
+  background: #F0AD4E;
+  color: white;
+}
+.removeButton {
+  background: #E26D5F;
+  color: white;
+}
+.checkoutNavBar {
+  padding: 0 10px;
+}
