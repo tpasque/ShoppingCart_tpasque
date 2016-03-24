@@ -1,0 +1,9 @@
+{
+  "firebase": "shoppingcarttpasque",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
