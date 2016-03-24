@@ -8,7 +8,7 @@ The data is provided from a custom built JSON and displayed using Angular.
 
 # Shopping Cart Live URL
 
-https://shoppingcarttpasque.firebaseapp.com/
+
 
 # Deploying on your local environment
 
