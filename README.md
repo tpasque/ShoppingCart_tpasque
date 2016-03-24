@@ -10,7 +10,7 @@ The data is provided from a custom built JSON and displayed using Angular.
 
 https://shoppingcarttpasque.firebaseapp.com/
 
-# Directions to download onto your local machine and run locally
+# Deploying on your local environment
 
 1. Clone the repository on github at https://github.com/tpasque/ShoppingCart_tpasque onto your local machine
 
@@ -18,4 +18,4 @@ https://shoppingcarttpasque.firebaseapp.com/
 
 3.  My application after this step runs on localhost:5000
 
-4.  Run the localhost environment to display the app locally on your machine. 
+4.  Run the localhost environment to display the app locally on your machine.
